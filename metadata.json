@@ -1,0 +1,7 @@
+{
+  "name": "NusaCrypto Exchange",
+  "description": "A high-performance digital asset exchange platform with integrated IDR and crypto wallets, featuring real-time market data, KYC tracking, and AI-powered market insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
